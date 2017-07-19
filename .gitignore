@@ -2,3 +2,5 @@ npm-debug.log
 .idea
 *.js
 *.map
+/first-app/angular-hello-world/package-lock.json
+package.json
